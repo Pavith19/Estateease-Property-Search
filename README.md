@@ -55,4 +55,26 @@ EstateEase is a property search application that enables users to easily browse 
 
 ## Project Structure
 
-property-search/ ├── node_modules/ # Dependencies ├── public/ # Public assets │ ├── assets/ # Images and other assets │ │ ├── ...image files here... │ └── index.html # Main HTML file ├── src/ # Source code │ ├── components/ # Reusable components │ │ ├── PropertyCard.js # Component for displaying property cards │ │ ├── PropertyDetails.js # Component for displaying property details │ │ ├── SearchForm.js # Search form component │ │ ├── ImageCarousel.js # Image carousel component for property images │ │ ├── FavoritesList.js # Component to display user's favorite properties │ │ ├── Tabs.js # Tab navigation component │ │ ├── Map.js # Map view for property locations │ │ ├── Footer.js # Footer component │ │ └── ContactForm.js # Contact form component │ ├── data/ # Data folder │ │ └── properties.json # JSON file containing property data │ ├── App.js # Main app component │ ├── index.js # Entry point for the app │ └── styles.css # Global CSS styles ├── package.json # Project dependencies and scripts
+property-search/
+├── node_modules/
+├── public/
+│   ├── assets/
+│   │   ├── ...image files here...
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── PropertyCard.js
+│   │   ├── PropertyDetails.js
+│   │   ├── SearchForm.js
+│   │   ├── ImageCarousel.js
+│   │   ├── FavoritesList.js
+│   │   ├── Tabs.js
+│   │   ├── Map.js
+│   │   ├── Footer.js
+│   │   └── ContactForm.js
+│   ├── data/
+│   │   └── properties.json
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── package.json
