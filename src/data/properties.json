@@ -1,0 +1,218 @@
+[
+  {
+    "id": "prop1",
+    "type": "House",
+    "bedrooms": 3,
+    "price": 750000,
+    "tenure": "Freehold",
+    "description": "Attractive three bedroom semi-detached family home.",
+    "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+    "url": "properties/prop1.html",
+    "added": {
+      "month": "October",
+      "day": 22,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop1/pic1.jpeg",
+      "/asset/prop1/pic2.png",
+      "/asset/prop1/pic3.png",
+      "/asset/prop1/pic4.png",
+      "/asset/prop1/pic5.png",
+      "/asset/prop1/pic6.png"
+    ],
+    "longDescription": "Doric House is a unique property of significant importance, both in itself and to the city's cultural heritage. John Britton described it as a notable landmark in the architectural history of Bath. The name 'Doric House' comes from the Greek classical Doric columns on its front façade.||The house was constructed during the late Georgian era, embodying the principles of Neo-Classicism and the Greek Revival. This spacious house features three comfortable bedrooms, a large living area, and a modern kitchen. It also boasts a lovely garden, perfect for families and entertaining.",
+    "floorPlan": "/asset/prop1/floorPlan.jpg",
+    "lat": 51.4000,
+    "lng": 0.0100
+  },
+  {
+    "id": "prop2",
+    "type": "Flat",
+    "bedrooms": 2,
+    "price": 399995,
+    "tenure": "Freehold",
+    "description": "Excellent two double bedroom, two bathroom, garden flat.",
+    "location": "Crofton Road Orpington BR6",
+    "url": "properties/prop2.html",
+    "added": {
+      "month": "September",
+      "day": 14,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop2/pic1.png",
+      "/asset/prop2/pic2.png",
+      "/asset/prop2/pic3.png",
+      "/asset/prop2/pic4.png",
+      "/asset/prop2/pic5.png",
+      "/asset/prop2/pic6.png"
+    ],
+    "longDescription": "The Empire is exceptionally well placed for all the delights of Georgian Bath. The immediate surroundings include the Abbey, River Avon, Pulteney Bridge and Weir, the Recreation Ground and Parade Gardens. Waitrose and all the other central shopping areas, such as Milsom Street and Southgate, are close by. Bath Spa railway station is a 5-minute level walk and provides trains to London Paddington (approximately 90 minutes) and Bristol Temple Meads (approximately 15 minutes). || To the right-hand side of the hall there are three bedrooms and a cloakroom which also doubles as a shower room. Bedroom 2 has built-in cupboards and bookshelves and could provide an excellent space for either a dressing room or a study. Bedroom 2 also has built-in cupboards and views across the rooftops of Bath and up to Lansdown. The master bedroom is of a particularly good scale, being roughly 15 ft. square. The room is really enhanced by its double aspect which gives plenty of light and further views. There is a double bank of wardrobes providing ample storage and an en suite shower room.",
+    "floorPlan": "/asset/prop2/floorPlan2.jpg",
+    "lat": 51.5300,
+    "lng": -0.1200
+  },
+  {
+    "id": "prop3",
+    "type": "House",
+    "bedrooms": 4,
+    "price": 875000,
+    "tenure": "Freehold",
+    "description": "Spacious detached family house with a large garden.",
+    "location": "West Common, Orpington BR6",
+    "url": "properties/prop3.html",
+    "added": {
+      "month": "November",
+      "day": 20,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop3/pic1.png",
+      "/asset/prop3/pic2.png",
+      "/asset/prop3/pic3.png",
+      "/asset/prop3/pic4.png",
+      "/asset/prop3/pic5.png",
+      "/asset/prop3/pic6.png"
+    ],
+    "longDescription": "Built in the early 1980s, 'Dunbar' is a great family home, a short walk from outstanding schools on Lansdown. The property was extended and completely refurbished in 2018/19, including new bathrooms, double glazing throughout and a new dining room extension. The garage was also converted into an annexe, increasing the footprint further and offering flexible accommodation with its own external access. ||A charming detached house with plenty of space for a growing family. It offers four well-sized bedrooms, a modern kitchen and a large living area. The expansive garden is perfect for outdoor activities.",
+    "floorPlan": "/asset/prop3/floorPlan3.png",
+    "lat": 51.4300,
+    "lng": 0.0300
+  },
+  {
+    "id": "prop4",
+    "type": "Flat",
+    "bedrooms": 1,
+    "price": 280000,
+    "tenure": "Leasehold",
+    "description": "Modern one-bedroom apartment with city views.",
+    "location": "High Street, Bromley BR1",
+    "url": "properties/prop4.html",
+    "added": {
+      "month": "December",
+      "day": 5,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop4/pic1.png",
+      "/asset/prop4/pic2.png",
+      "/asset/prop4/pic3.png",
+      "/asset/prop4/pic4.png",
+      "/asset/prop4/pic5.png",
+      "/asset/prop4/pic6.png"
+    ],
+    "longDescription": "This lovely 1-bedroom flat features a cozy living space, a fully equipped kitchen, and large windows with a city view. It’s conveniently located near local amenities and transportation.||Plus, when you move in, you will also benefit from all that Bath Leat has to offer. Almost every apartment has its own outdoor space to relax and entertain in. When you live at Bath Leat, staying at home can mean enjoying the sanctuary of your own private apartment, or enjoying time with friendly neighbours in the shared lounge and terrace, taking a stroll through the pretty gardens, enjoying wellness in the stretch studio or mingling with the public in the onsite café.",
+    "floorPlan": "/asset/prop4/floorPlan4.jpg",
+    "lat": 51.5000,
+    "lng": -0.0700
+  },
+  {
+    "id": "prop5",
+    "type": "House",
+    "bedrooms": 5,
+    "price": 1200000,
+    "tenure": "Freehold",
+    "description": "Luxury detached house with a swimming pool.",
+    "location": "Chislehurst Road, Chislehurst BR7",
+    "url": "properties/prop5.html",
+    "added": {
+      "month": "May",
+      "day": 10,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop5/pic1.png",
+      "/asset/prop5/pic2.png",
+      "/asset/prop5/pic3.png",
+      "/asset/prop5/pic4.png",
+      "/asset/prop5/pic5.png",
+      "/asset/prop5/pic6.png"
+    ],
+    "longDescription": "This impressive house offers five generously sized bedrooms, multiple living areas, and a large garden with a pool. Located in a prestigious area, it's perfect for those seeking luxury and comfort.",
+    "floorPlan": "/asset/prop5/floorPlan5.jpg",
+    "lat": 51.4900,
+    "lng": -0.1400
+  },
+  {
+    "id": "prop6",
+    "type": "Flat",
+    "bedrooms": 2,
+    "price": 450000,
+    "tenure": "Leasehold",
+    "description": "Spacious two-bedroom flat with a balcony.",
+    "location": "Station Approach, London SE1",
+    "url": "properties/prop6.html",
+    "added": {
+      "month": "August",
+      "day": 20,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop6/pic1.png",
+      "/asset/prop6/pic2.png",
+      "/asset/prop6/pic3.png",
+      "/asset/prop6/pic4.png",
+      "/asset/prop6/pic5.png",
+      "/asset/prop6/pic6.png"
+    ],
+    "longDescription": "Located moments away from the iconic Clifton Suspension Bridge and a short stroll from Clifton Village, this exceptional penthouse represents one of Bristol’s finest offerings. Set within a meticulously converted Grade II listed building, the residence boasts unparalleled city views.||A contemporary two-bedroom apartment with large windows offering stunning views. Features an open-plan living area and modern kitchen. Ideal for urban living.",
+    "floorPlan": "/asset/prop6/floorPlan6.jpg",
+    "lat": 51.5200,
+    "lng": -0.0500
+  },
+  {
+    "id": "prop7",
+    "type": "House",
+    "bedrooms": 3,
+    "price": 620000,
+    "tenure": "Freehold",
+    "description": "Charming family home with a garden and parking.",
+    "location": "High Street, Orpington BR6",
+    "url": "properties/prop7.html",
+    "added": {
+      "month": "December",
+      "day": 8,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop7/pic1.png",
+      "/asset/prop7/pic2.png",
+      "/asset/prop7/pic3.png",
+      "/asset/prop7/pic4.png",
+      "/asset/prop7/pic5.png",
+      "/asset/prop7/pic6.png"
+    ],
+    "longDescription": "Located on this prestigious road in Hampstead, an imposing double fronted ambassadorial style detached residence, offering in excess of 7,600sq ft (713sq m) of accommodation and approached via a sweeping gated carriage drive.||A perfect family home with three bedrooms, a modern kitchen, and spacious living areas. Includes a private garden and off-street parking. Close to local schools and amenities.||The property is located within 100 meters of Hampstead Heath and the extensive facilities of Hampstead Village (Northern Line) are within half a mile.",
+    "floorPlan": "/asset/prop7/floorPlan7.jpg",
+    "lat": 51.5400,
+    "lng": -0.0900
+  },
+  {
+    "id": "prop8",
+    "type": "Flat",
+    "bedrooms": 3,
+    "price": 520000,
+    "tenure": "Leasehold",
+    "description": "Modern 3-bedroom penthouse with panoramic views.",
+    "location": "Canary Wharf, London E14",
+    "url": "properties/prop8.html",
+    "added": {
+      "month": "April",
+      "day": 1,
+      "year": 2024
+    },
+    "images": [
+      "/asset/prop8/pic1.png",
+      "/asset/prop8/pic2.png",
+      "/asset/prop8/pic3.png",
+      "/asset/prop8/pic4.png",
+      "/asset/prop8/pic5.png",
+      "/asset/prop8/pic6.png"
+    ],
+    "longDescription": "This unique property measures approximately 2,303 sq.ft. / 214 sq.m. and is offered in excellent condition. Located at the end of the terrace giving the feel of a semi-detached home.||A luxurious three-bedroom penthouse apartment with floor-to-ceiling windows offering panoramic city views. Includes a large open-plan living area, modern kitchen, and private balcony.||34 Elsworthy Road is situated right opposite the entrance of Primrose Hill Park. Convenient to walk to Primrose hill Village. St. John’s Wood High Street is also close by and the nearest station is Swiss Cottage (Jubilee Line).",
+    "floorPlan": "/asset/prop8/floorPlan8.jpg",
+    "lat": 51.5000,
+    "lng": -0.0200
+  }
+]
