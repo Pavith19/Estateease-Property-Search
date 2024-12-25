@@ -79,3 +79,8 @@ property-search/
 │   └── styles.css
 ├── package.json
 ```
+## Known issues
+*   Browser extensions such as ad-blockers may prevent loading of the Google Map or cause other issues, as these are not coding errors then please try again by disabling those.
+*   The search functionality relies on text-based searching so exact terms will return the best results.
+  
+
