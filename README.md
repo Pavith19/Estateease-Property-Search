@@ -54,7 +54,7 @@ EstateEase is a property search application that enables users to easily browse 
 4.  **Open in Browser:** Open your web browser and go to `http://localhost:3000`.
 
 ## Project Structure
-
+```
 property-search/
 ├── node_modules/
 ├── public/
@@ -78,3 +78,4 @@ property-search/
 │   ├── index.js
 │   └── styles.css
 ├── package.json
+```
